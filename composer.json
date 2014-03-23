@@ -1,0 +1,7 @@
+{
+    "name": "takahashiyuya/FastCSV",
+    "type": "cakephp-plugin",
+    "require": {
+        "composer/installers": "*"
+    }
+}
